@@ -1,0 +1,50 @@
+.codebar {
+    width: 600px;
+    background: #002B36;
+    position: relative;
+    border-left: 1.5px solid #1A414A;
+}
+
+.logo__icon {
+    height: 27px;
+    width: 27px;
+    color: rgba(255, 255, 255, 0.19);
+}
+
+.tab {
+    display: flex;
+    align-items: center;
+    height: 70px;
+    padding: 0 15px;
+    gap: 40px;
+    border-bottom: 1.5px solid #1A414A;
+}
+
+.btn {
+    cursor: pointer;
+    display: flex;
+    height: 40px;
+    width: 130px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    border: 2px solid #1A414A;
+    background: none;
+    color: #565F65;
+    font-weight: 400;
+    font-size: 16px;
+    outline: none;
+    transition: all 0.4s;
+}
+
+.activeTab {
+    border: 2px solid #28A697;
+    filter: drop-shadow(0px 0px 9px rgba(40, 166, 151, 0.5));
+    background: none;
+    color: #f1f1f1;
+}
+
+.editor {
+    height: calc(100vh - 70px);
+    padding: 10px;
+}

@@ -1,0 +1,35 @@
+.header {
+    height: 70px;
+    background: #002B36;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1.5px solid #1A414A;
+    padding: 0 15px;
+}
+
+.icon__git {
+    cursor: pointer;
+    height: 23px;
+    width: 23px;
+    color: #f1f1f1;
+    transition: all 0.4s;
+}
+
+.icon__git:hover {
+    opacity: 0.9;
+    color: #28a697;
+}
+
+.icon__settings {
+    cursor: pointer;
+    height: 23px;
+    width: 23px;
+    color: #f1f1f1;
+    transition: all 0.4s;
+}
+
+.icon__settings:hover {
+    opacity: 0.9;
+    color: #28a697;
+}
