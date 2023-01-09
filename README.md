@@ -1,5 +1,6 @@
-# Code Cloud | online-editor
-### Описание: Code Cloud - это платформа для редактирования кода на HTML, CSS и JavaScript с просмотром готового результата в браузере.
+![logo](./code-editor/public/icon/navbar.jpg)
+# Code Cloud | online-editor 
+#### Описание: Code Cloud - это платформа для редактирования кода на HTML, CSS и JavaScript с просмотром готового результата в браузере.
 ___
 ## Технологии проекта:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
