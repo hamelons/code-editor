@@ -7,6 +7,7 @@ ___
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=Css3)
+![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=FIGMA)
 ## Дполнительные [npm](https://www.npmjs.com/) пкеты:
 - Иконки взяты с [React Icons](https://react-icons.github.io/react-icons/)
 ```javascript
