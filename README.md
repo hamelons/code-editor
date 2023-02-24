@@ -1,5 +1,5 @@
 ![logo](./code-editor/public/icon/navbar.jpg)
-# Code Cloud | online-editor 
+## Code Cloud | online-editor 
 #### Code Cloud - это платформа для редактирования кода на HTML, CSS и JavaScript с просмотром готового результата в браузере.
 ___
 ## Технологии проекта:
